@@ -1,0 +1,11 @@
+D:\Stuff\Info\Projects\My Projects\OTL Hack\OTL Hack\bin\Release\OTL Hack.exe.config
+D:\Stuff\Info\Projects\My Projects\OTL Hack\OTL Hack\bin\Release\OTL Hack.exe
+D:\Stuff\Info\Projects\My Projects\OTL Hack\OTL Hack\bin\Release\OTL Hack.pdb
+D:\Stuff\Info\Projects\My Projects\OTL Hack\OTL Hack\obj\Release\OTL Hack.csproj.AssemblyReference.cache
+D:\Stuff\Info\Projects\My Projects\OTL Hack\OTL Hack\obj\Release\OTL Hack.csproj.SuggestedBindingRedirects.cache
+D:\Stuff\Info\Projects\My Projects\OTL Hack\OTL Hack\obj\Release\OTL_Hack.Messages.resources
+D:\Stuff\Info\Projects\My Projects\OTL Hack\OTL Hack\obj\Release\OTL_Hack.Properties.Resources.resources
+D:\Stuff\Info\Projects\My Projects\OTL Hack\OTL Hack\obj\Release\OTL Hack.csproj.GenerateResource.cache
+D:\Stuff\Info\Projects\My Projects\OTL Hack\OTL Hack\obj\Release\OTL Hack.csproj.CoreCompileInputs.cache
+D:\Stuff\Info\Projects\My Projects\OTL Hack\OTL Hack\obj\Release\OTL Hack.exe
+D:\Stuff\Info\Projects\My Projects\OTL Hack\OTL Hack\obj\Release\OTL Hack.pdb
